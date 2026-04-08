@@ -1,0 +1,5 @@
+.DS_Store  # macOS system files
+edited/  # Directory for edited files
+metadata/  # Directory for metadata files
+originals/  # Directory for original files
+output/
