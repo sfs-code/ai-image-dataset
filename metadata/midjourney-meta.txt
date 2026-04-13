@@ -1,0 +1,31 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.52
+---- File ----
+File Name                       : cat-yawn-midjourney.png
+Directory                       : .
+File Size                       : 1920 kB
+File Modification Date/Time     : 2026:03:05 17:41:09-08:00
+File Access Date/Time           : 2026:03:08 22:08:05-07:00
+File Inode Change Date/Time     : 2026:03:08 11:45:54-07:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 896
+Image Height                    : 1344
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Creation Time                   : 2026:03:06 01:39:12+00:00
+Author                          : u8369211356
+Description                     : extreme close-up photograph of a brown tabby cat yawning with mouth wide open, pink tongue visible, detailed whiskers and striped fur pattern, cat resting on a soft white fluffy blanket, cozy indoor setting, natural window light, shallow depth of field, blurred background, ultra realistic fur texture, eye-level framing centered on the catâ€™s face, DSLR photography, 85mm lens, f/2.0, high dynamic range, sharp focus on nose and whiskers --ar 2:3 --raw --v 6 Job ID: 72c2e986-89c9-4762-91cf-9ef8227288c1
+---- XMP ----
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Digital Image GUID              : 72c2e986-89c9-4762-91cf-9ef8227288c1
+Digital Source Type             : http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia
+---- Composite ----
+Image Size                      : 896x1344
+Megapixels                      : 1.2

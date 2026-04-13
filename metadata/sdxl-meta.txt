@@ -1,0 +1,25 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.52
+---- File ----
+File Name                       : cat-yawn-sdxl.png
+Directory                       : .
+File Size                       : 1474 kB
+File Modification Date/Time     : 2026:03:08 11:38:51-07:00
+File Access Date/Time           : 2026:03:08 22:08:05-07:00
+File Inode Change Date/Time     : 2026:03:08 11:39:26-07:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 896
+Image Height                    : 1152
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Parameters                      : Realistic, sharp focus, lots of texture, high detail studio quality raw photo, 50mm lens, full body photo of brown tabby cat sitting and yawning, sunny  spring day, vivid color.Steps: 30, Sampler: DPM++ 2M, Schedule type: Karras, CFG scale: 3, Seed: 4003313570, Size: 896x1152, Model hash: c9e3e68f89, Model: Juggernaut-XL_v9_RunDiffusionPhoto_v2, Version: v1.10.1-96-g1937682a
+---- Composite ----
+Image Size                      : 896x1152
+Megapixels                      : 1.0

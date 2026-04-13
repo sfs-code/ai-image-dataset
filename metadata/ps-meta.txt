@@ -1,0 +1,84 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.52
+---- File ----
+File Name                       : cat-yawn-ps.png
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2026:04:07 18:34:39-07:00
+File Access Date/Time           : 2026:04:07 18:34:40-07:00
+File Inode Change Date/Time     : 2026:04:07 18:34:39-07:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 960
+Image Height                    : 1280
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Color Primaries                 : SMPTE EG 432-1
+Transfer Characteristics        : sRGB or sYCC
+Matrix Coefficients             : Identity matrix
+Video Full Range Flag           : 1
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+---- XMP ----
+XMP Toolkit                     : Adobe XMP Core 10.0-c000 79.d20e46630, 2025/12/09-02:11:23
+Modify Date                     : 2026:04:07 18:34:39-07:00
+Create Date                     : 2026:03:01 13:45:44
+Creator Tool                    : 26.3
+Metadata Date                   : 2026:04:07 18:34:39-07:00
+Photographic Sensitivity        : 500
+Lens Make                       : Apple
+Lens Model                      : iPhone 16 Pro Max back triple camera 6.765mm f/1.78
+Date Created                    : 2026:03:01 13:45:44
+Color Mode                      : RGB
+Orientation                     : Horizontal (normal)
+Resolution Unit                 : inches
+Make                            : Apple
+Camera Model Name               : iPhone 16 Pro Max
+Exif Version                    : 0232
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Exposure Time                   : 1/30
+F Number                        : 1.8
+Exposure Program                : Program AE
+Shutter Speed Value             : 1/30
+Aperture Value                  : 1.8
+Brightness Value                : -0.279941929495067
+Metering Mode                   : Multi-segment
+Focal Length                    : 6.8 mm
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Format                          : image/png
+Instance ID                     : xmp.iid:41fec8e2-9e3d-464a-98f8-fd91909520e9
+Document ID                     : adobe:docid:photoshop:34b57389-12e7-e44f-ace2-ca38d97788c2
+Original Document ID            : xmp.did:87f5af90-706d-4cd4-8d82-84e2e9e05af3
+Lens Info                       : 2.22000002861193-15.659999847383mm f/1.77999997138807-2.8
+ISO                             : 500
+Flash Fired                     : False
+Flash Return                    : No return detection
+Flash Mode                      : Off
+Flash Function                  : False
+Flash Red Eye Mode              : False
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:87f5af90-706d-4cd4-8d82-84e2e9e05af3, xmp.iid:41fec8e2-9e3d-464a-98f8-fd91909520e9
+History When                    : 2026:04:07 18:34:11-07:00, 2026:04:07 18:34:39-07:00
+History Software Agent          : Adobe Photoshop 27.5 (Macintosh), Adobe Photoshop 27.5 (Macintosh)
+History Changed                 : /, /
+---- Composite ----
+Aperture                        : 1.8
+Image Size                      : 960x1280
+Megapixels                      : 1.2
+Shutter Speed                   : 1/30
+Flash                           : Off, Did not fire
+Focal Length 35mm Equiv         : 6.8 mm
+Light Value                     : 4.2
+Lens ID                         : iPhone 16 Pro Max back triple camera 6.765mm f/1.78

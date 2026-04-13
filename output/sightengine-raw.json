@@ -1,0 +1,1121 @@
+[{
+    "request": {
+        "id": "req_ks8nOHaqVFA6SLZTwpGzl",
+        "timestamp": 1775711488.1655,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-008-d-nm-cp-br.png",
+        "id": "med_ks8nCmYID4RCFuLXkTUW5"
+    },
+    "type": {
+        "ai_generated": 0.16,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.07,
+            "gpt": 0.05,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.01,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8ncXP3c50qpNWdddh4y",
+        "timestamp": 1775711483.2789,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-008-d-nm-cp.png",
+        "id": "med_ks8n4qZ8aG729EAa2F0W6"
+    },
+    "type": {
+        "ai_generated": 0.08,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.02,
+            "gpt": 0.02,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8nwXynST7hS0jS0KDG3",
+        "timestamp": 1775711477.9242,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-008-d-nm.png",
+        "id": "med_ks8nz8MHXuXplMMiDK5tP"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8nFexsCjaJyL3VMhl0b",
+        "timestamp": 1775711473.1443,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-008-x-nm.png",
+        "id": "med_ks8n32LatGLZiDg6EN8OI"
+    },
+    "type": {
+        "ai_generated": 0.02,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8n5Fb5vSjnnSDKMTmj8",
+        "timestamp": 1775711467.2109,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-007-d-nm-cp-br.png",
+        "id": "med_ks8nTPlKemOcvXnVpnjYT"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8n0iKWdelRv2PMDuEJH",
+        "timestamp": 1775711461.4714,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-007-d-nm-cp.png",
+        "id": "med_ks8nM8LX6kpyqqOsgQ0zJ"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8m6VKEoGwWsNp9TU3zS",
+        "timestamp": 1775711456.5071,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-007-d-nm.png",
+        "id": "med_ks8mG1kv8N3azYW4QlAu4"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8my8KTiWygnpoIwlece",
+        "timestamp": 1775711451.7997,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-007-x-nm.png",
+        "id": "med_ks8mHOKjL8UdsupjWrL8r"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mzjsUtT0n4MVWAB9Ud",
+        "timestamp": 1775711445.4857,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-006-d-nm-cp-br.png",
+        "id": "med_ks8m9GncTZ7gjsNzABM2b"
+    },
+    "type": {
+        "ai_generated": 0.56,
+        "ai_generators": {
+            "other": 0.02,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.01,
+            "imagen": 0.01,
+            "gpt": 0.32,
+            "ideogram": 0.01,
+            "gan": 0.001,
+            "reve": 0.01,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.06,
+            "seedream": 0.1
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mw98dy9ynsu4vy0RWS",
+        "timestamp": 1775711440.1609,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-006-d-nm-cp.png",
+        "id": "med_ks8mikzQ8Hh2ZYEktL3Pn"
+    },
+    "type": {
+        "ai_generated": 0.98,
+        "ai_generators": {
+            "other": 0.03,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.02,
+            "higgsfield": 0.001,
+            "midjourney": 0.01,
+            "imagen": 0.03,
+            "gpt": 0.44,
+            "ideogram": 0.01,
+            "gan": 0.001,
+            "reve": 0.03,
+            "stable_diffusion": 0.01,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.23,
+            "seedream": 0.14
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mQVkf0gbnzQufMm6Qs",
+        "timestamp": 1775711434.7583,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-006-d-nm.png",
+        "id": "med_ks8mfaY1e9HbmCuFaifgL"
+    },
+    "type": {
+        "ai_generated": 0.98,
+        "ai_generators": {
+            "other": 0.02,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.02,
+            "higgsfield": 0.001,
+            "midjourney": 0.01,
+            "imagen": 0.03,
+            "gpt": 0.63,
+            "ideogram": 0.01,
+            "gan": 0.001,
+            "reve": 0.02,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.07,
+            "seedream": 0.16
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mviPwkhLmdaCCPSOje",
+        "timestamp": 1775711430.4881,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-006-x-nm.png",
+        "id": "med_ks8mBtKmfm7X6kCPATLmR"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mYsZo9BXUlBTyd6pVm",
+        "timestamp": 1775711415.2468,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-005-d-nm-cp-br.png",
+        "id": "med_ks8mjIEZHEPI66Zg9TyTl"
+    },
+    "type": {
+        "ai_generated": 0.44,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.24,
+            "gpt": 0.11,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.02,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.03
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mnt6kIod0tXDIuGv0I",
+        "timestamp": 1775711408.3246,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-005-d-nm-cp.png",
+        "id": "med_ks8m8s9Av4HFv4eZP0yCq"
+    },
+    "type": {
+        "ai_generated": 0.87,
+        "ai_generators": {
+            "other": 0.03,
+            "firefly": 0.01,
+            "recraft": 0.01,
+            "wan": 0.001,
+            "dalle": 0.02,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.44,
+            "gpt": 0.22,
+            "ideogram": 0.001,
+            "gan": 0.01,
+            "reve": 0.04,
+            "stable_diffusion": 0.01,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.08
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8mnBVJtEca6NdO6feBY",
+        "timestamp": 1775711401.6601,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-005-d-nm.png",
+        "id": "med_ks8mESgjCwbvpKWgIJMDu"
+    },
+    "type": {
+        "ai_generated": 0.31,
+        "ai_generators": {
+            "other": 0.02,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.08,
+            "gpt": 0.11,
+            "ideogram": 0.001,
+            "gan": 0.01,
+            "reve": 0.02,
+            "stable_diffusion": 0.01,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.03
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lT5qj1agunC17inTDz",
+        "timestamp": 1775711395.5854,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-005-x-nm.png",
+        "id": "med_ks8ls29vbkIk9FFF6pxm3"
+    },
+    "type": {
+        "ai_generated": 0.02,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.01,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lWwXlmetKHP3fDzjIK",
+        "timestamp": 1775711388.409,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-004-d-nm-cp-br.png",
+        "id": "med_ks8lVxcAXhtvegDQT0PTN"
+    },
+    "type": {
+        "ai_generated": 0.4,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.28,
+            "gpt": 0.03,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.01,
+            "z_image": 0.001,
+            "qwen": 0.05,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lkE1u7CMm5LhxzjlfE",
+        "timestamp": 1775711382.2809,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-004-d-nm-cp.png",
+        "id": "med_ks8lkFN4zysbdstvI8oM2"
+    },
+    "type": {
+        "ai_generated": 0.34,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.2,
+            "gpt": 0.04,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.01,
+            "z_image": 0.001,
+            "qwen": 0.05,
+            "seedream": 0.01
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8llCSwxNBMNHkDJx7Dl",
+        "timestamp": 1775711376.2141,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-004-d-nm.png",
+        "id": "med_ks8l0lTWX89f1VAYwX0o7"
+    },
+    "type": {
+        "ai_generated": 0.03,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.01,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lbkCdue1TMO5Fp5AQG",
+        "timestamp": 1775711371.2729,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-004-x-nm.png",
+        "id": "med_ks8leuLGuvt6M4UJA7IGV"
+    },
+    "type": {
+        "ai_generated": 0.001,
+        "ai_generators": {
+            "other": 0.001,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lYtoSWBjR0r46i1WjR",
+        "timestamp": 1775711362.0504,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-003-d-nm-cp-br.png",
+        "id": "med_ks8lCrCljiEyNCxB84pYg"
+    },
+    "type": {
+        "ai_generated": 0.51,
+        "ai_generators": {
+            "other": 0.02,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.01,
+            "imagen": 0.23,
+            "gpt": 0.02,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.15,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.05
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lYLHel74pOIdsRx6Xt",
+        "timestamp": 1775711356.227,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-003-d-nm-cp.png",
+        "id": "med_ks8ltcIn375vzrzwt3CZ1"
+    },
+    "type": {
+        "ai_generated": 0.93,
+        "ai_generators": {
+            "other": 0.08,
+            "firefly": 0.01,
+            "recraft": 0.001,
+            "wan": 0.01,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.01,
+            "imagen": 0.35,
+            "gpt": 0.05,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.03,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.01,
+            "seedream": 0.37
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lOXuhNK7ObUdo1yp0R",
+        "timestamp": 1775711351.1503,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-003-d-nm.png",
+        "id": "med_ks8lvmf7claNpTOj84xY7"
+    },
+    "type": {
+        "ai_generated": 0.79,
+        "ai_generators": {
+            "other": 0.06,
+            "firefly": 0.01,
+            "recraft": 0.001,
+            "wan": 0.03,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.02,
+            "imagen": 0.12,
+            "gpt": 0.07,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.07,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.03,
+            "seedream": 0.37
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8lg61lOyGmW21spOhQ7",
+        "timestamp": 1775711345.2497,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-003-x-nm.png",
+        "id": "med_ks8l3P9gQcxVFFXduYWZu"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8kVzLTO2usEzVIbJLPE",
+        "timestamp": 1775711338.7408,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-002-d-nm-cp-br.png",
+        "id": "med_ks8kuIBOmdockhzso0hiw"
+    },
+    "type": {
+        "ai_generated": 0.14,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.02,
+            "gpt": 0.06,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.02
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8kQWwZCe7izCcjfI4Dw",
+        "timestamp": 1775711334.9199,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-002-d-nm-cp.png",
+        "id": "med_ks8kW6g0OE0ideJO0u2Mb"
+    },
+    "type": {
+        "ai_generated": 0.42,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.01,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.01,
+            "midjourney": 0.01,
+            "imagen": 0.08,
+            "gpt": 0.21,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.06
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8kghU7cucgbtz8EBbPT",
+        "timestamp": 1775711330.2785,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-002-d-nm.png",
+        "id": "med_ks8k6klSUV64CBzDSWqBt"
+    },
+    "type": {
+        "ai_generated": 0.07,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.01,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.01,
+            "gpt": 0.02,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.01
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8kf61xA5MUAJf56v4QR",
+        "timestamp": 1775711325.8571,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-002-x-nm.png",
+        "id": "med_ks8k5HRIFbq25Mt6vTVp8"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8k7O0lt2f9oDz6bMRof",
+        "timestamp": 1775711292.1455,
+        "operations": 10
+    },
+    "media": {
+        "uri": "D-img-001-d-nm-cp-br.png",
+        "id": "med_ks8kdySx0T37DBnDufpmO"
+    },
+    "type": {
+        "ai_generated": 0.08,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.03,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8kBmvLcSbWwQghCMoL3",
+        "timestamp": 1775711286.3522,
+        "operations": 10
+    },
+    "media": {
+        "uri": "C-img-001-d-nm-cp.png",
+        "id": "med_ks8kF8Jtbudp2FxLxHM4A"
+    },
+    "type": {
+        "ai_generated": 0.06,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.02,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8jryCp84WjgkGQBmrHO",
+        "timestamp": 1775711279.9651,
+        "operations": 10
+    },
+    "media": {
+        "uri": "B-img-001-d-nm.png",
+        "id": "med_ks8jseQTOmk4UZ7a0mMWJ"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+},
+{
+    "request": {
+        "id": "req_ks8jvN2CatXDQEtueIn0S",
+        "timestamp": 1775711274.4352,
+        "operations": 10
+    },
+    "media": {
+        "uri": "A-img-001-x-nm.png",
+        "id": "med_ks8jRgkSFahYWa268BTxo"
+    },
+    "type": {
+        "ai_generated": 0.01,
+        "ai_generators": {
+            "other": 0.01,
+            "firefly": 0.001,
+            "recraft": 0.001,
+            "wan": 0.001,
+            "dalle": 0.001,
+            "higgsfield": 0.001,
+            "midjourney": 0.001,
+            "imagen": 0.001,
+            "gpt": 0.001,
+            "ideogram": 0.001,
+            "gan": 0.001,
+            "reve": 0.001,
+            "stable_diffusion": 0.001,
+            "flux": 0.001,
+            "z_image": 0.001,
+            "qwen": 0.001,
+            "seedream": 0.001
+        },
+        "deepfake": 0.001
+    },
+    "status": "success"
+  }
+]

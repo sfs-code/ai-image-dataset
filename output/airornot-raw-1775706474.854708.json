@@ -1,0 +1,2338 @@
+{
+  "D-img-005-d-nm-cp-br.png": {
+    "id": "dc04b862-0d26-4353-bd22-db49494d0020",
+    "created_at": "2026-04-09T03:47:01.075677",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.5487031936645508
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.4512968063354492
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.5487031936645508,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.4512968063354492,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.24341794848442078,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.001825543469749391,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.06669396162033081,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.009479052387177944,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.006492422427982092,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.15322858095169067,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.007224047090858221,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.060341671109199524,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 870454,
+        "md5": "ef64e5f9b6666cc676555a33e954983a",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-005-d-nm-cp-br.png"
+  },
+  "A-img-005-x-nm.png": {
+    "id": "9278c5aa-36f4-4a98-81fe-58694bd72e9f",
+    "created_at": "2026-04-09T03:47:02.847532",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.03222666308283806
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.9677733778953552
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.03222666308283806,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.9677733778953552,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.004519225098192692,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0007993967738002539,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0021169958636164665,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0022149612195789814,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.003993703052401543,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.015391933731734753,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.0022306484170258045,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.0009597977041266859,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1745818,
+        "md5": "59aac8ac33aecc06483bce340497647a",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-005-x-nm.png"
+  },
+  "C-img-005-d-nm-cp.png": {
+    "id": "edc1b331-9c9c-4b46-856f-2c5ecbba8d00",
+    "created_at": "2026-04-09T03:47:04.478150",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.49304676055908203
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.506953239440918
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.49304676055908203,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.506953239440918,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.06701561063528061,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.009183540008962154,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.004358133766800165,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.00495033897459507,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.009234766475856304,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.06066228076815605,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.008760515600442886,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.32888156175613403,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1376026,
+        "md5": "e9b30d00e6d0afc048b65e4a2ba7cfc6",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-005-d-nm-cp.png"
+  },
+  "B-img-005-d-nm.png": {
+    "id": "636080bf-8865-40ed-bc5f-018764721bf8",
+    "created_at": "2026-04-09T03:47:06.334997",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.7330174446105957
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.2669825255870819
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.7330174446105957,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.2669825255870819,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.014364988543093204,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.003600920317694545,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0019412728725001216,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0012961970642209053,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.00539523595944047,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.004475845023989677,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.005474226549267769,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6964687705039978,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1024,
+        "height": 1536,
+        "format": "PNG",
+        "size_bytes": 1594828,
+        "md5": "1fcd26512145a60e8768420ef845a024",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-005-d-nm.png"
+  },
+  "A-img-002-x-nm.png": {
+    "id": "f53863c1-b6d9-4d0e-86c0-d052b97952d6",
+    "created_at": "2026-04-09T03:47:08.104764",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.09366250038146973
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.9063374996185303
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.09366250038146973,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.9063374996185303,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.008463563397526741,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.006004916969686747,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.02171332575380802,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.006621359381824732,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.003507921239361167,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0019345803884789348,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.042000796645879745,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.003416028106585145,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 2240978,
+        "md5": "f3ac0aed66d9f815e054674832053bf8",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-002-x-nm.png"
+  },
+  "D-img-002-d-nm-cp-br.png": {
+    "id": "69fcc774-f61a-46df-a918-5a293e291e07",
+    "created_at": "2026-04-09T03:47:09.786573",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.7503967881202698
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.24960321187973022
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.7503967881202698,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.24960321187973022,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.0037022933829575777,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.004334418568760157,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.05952486768364906,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0038191380444914103,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.005108839366585016,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.004058103542774916,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.003209554823115468,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6666395664215088,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1393198,
+        "md5": "d6eae08b415260e43f523ef6b2db54d6",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-002-d-nm-cp-br.png"
+  },
+  "C-img-002-d-nm-cp.png": {
+    "id": "0ded264d-902a-45ec-92b6-ad44e4fc8b87",
+    "created_at": "2026-04-09T03:47:11.609965",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9743443131446838
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.02565566636621952
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9743443131446838,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.02565566636621952,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.00146495271474123,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0030882866121828556,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0024075654800981283,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0008982926374301314,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0022411600220948458,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0066155134700238705,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.008895663544535637,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.9487329125404358,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 2078821,
+        "md5": "a01460967a2ba71564d192140a342c1e",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-002-d-nm-cp.png"
+  },
+  "B-img-002-d-nm.png": {
+    "id": "3fef9358-01bc-43f2-a35f-0ccee013137e",
+    "created_at": "2026-04-09T03:47:13.482042",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9745615124702454
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.02543851174414158
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9745615124702454,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.02543851174414158,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.0010321756126359105,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0030884980224072933,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0015126317739486694,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0012332273181527853,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.002367571694776416,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.004822526592761278,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.010785317048430443,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.9497195482254028,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1536,
+        "height": 1024,
+        "format": "PNG",
+        "size_bytes": 2470730,
+        "md5": "2bd80861a4b0e2a1ec4ab2497cf9eab0",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-002-d-nm.png"
+  },
+  "D-img-003-d-nm-cp-br.png": {
+    "id": "58d788ed-4cb9-4517-b8fd-5a6bfee021d6",
+    "created_at": "2026-04-09T03:47:15.137292",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.8074379563331604
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.1925620287656784
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.8074379563331604,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.1925620287656784,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.021454205736517906,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0034006545320153236,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.01937035657465458,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0006393142393790185,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.011449690908193588,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.002049116650596261,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.016678428277373314,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.7323961853981018,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1084985,
+        "md5": "a55bc609778047303449838ab1813542",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-003-d-nm-cp-br.png"
+  },
+  "A-img-003-x-nm.png": {
+    "id": "8c930511-3253-4bd2-b798-4baba48dd351",
+    "created_at": "2026-04-09T03:47:16.862751",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.5015801787376404
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.498419851064682
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.5015801787376404,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.498419851064682,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.0912305936217308,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0034395852126181126,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.009491672739386559,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.006200003903359175,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.006450285669416189,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.3345493674278259,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.013625825755298138,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.03659279644489288,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1662259,
+        "md5": "d1b94704ea9f97a6767db9bd78c57904",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-003-x-nm.png"
+  },
+  "B-img-003-d-nm.png": {
+    "id": "eb795d01-1d7d-406f-bda9-774f9a419a5e",
+    "created_at": "2026-04-09T03:47:18.606879",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.964551568031311
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.03544846922159195
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.964551568031311,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.03544846922159195,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.00304019614122808,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0034112497232854366,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0032098875381052494,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0002789151621982455,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.003993999678641558,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0037554576992988586,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.018606271594762802,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.928255558013916,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1536,
+        "height": 1024,
+        "format": "PNG",
+        "size_bytes": 1987927,
+        "md5": "e784fba88878cc3c4ce6459061715ebb",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-003-d-nm.png"
+  },
+  "C-img-003-d-nm-cp.png": {
+    "id": "0bb2d8e6-1f21-4878-a966-06ababfc6024",
+    "created_at": "2026-04-09T03:47:20.267715",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9620652794837952
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.03793470188975334
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9620652794837952,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.03793470188975334,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.0032570362091064453,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0019640678074210882,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0014964028960093856,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 7.247777102747932e-05,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.003974858205765486,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0008589532226324081,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.0040978193283081055,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.9463436603546143,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1640142,
+        "md5": "83f034f5db24378639bc4a21876917f9",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-003-d-nm-cp.png"
+  },
+  "D-img-004-d-nm-cp-br.png": {
+    "id": "2830d3f6-c077-4548-8366-a0dcabcc3495",
+    "created_at": "2026-04-09T03:47:21.944488",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.7996253371238708
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.20037467777729034
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.7996253371238708,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.20037467777729034,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.00817184615880251,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.004028044641017914,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.05217758193612099,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.005066671408712864,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0019257809035480022,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.012075703591108322,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.02031034417450428,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6958693861961365,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1310548,
+        "md5": "29f4fb9dba9c432d73e2ab1778a5053c",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-004-d-nm-cp-br.png"
+  },
+  "C-img-004-d-nm-cp.png": {
+    "id": "f1dcf3e7-2f62-44af-a25d-f184cb1cc8cb",
+    "created_at": "2026-04-09T03:47:23.770727",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9722661972045898
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.027733763679862022
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9722661972045898,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.027733763679862022,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.0030974913388490677,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.009492109529674053,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.007417054381221533,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0068515753373503685,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.005109736695885658,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.061915695667266846,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.0473015233874321,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.8310810327529907,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1910080,
+        "md5": "8e22e9dee35a5c4ad88761c48fe5774b",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-004-d-nm-cp.png"
+  },
+  "A-img-004-x-nm.png": {
+    "id": "b040ff7d-55fb-432d-b9e8-8b659fb49090",
+    "created_at": "2026-04-09T03:47:25.518118",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.10730167478322983
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.8926982879638672
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.10730167478322983,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.8926982879638672,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.0029601966962218285,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0258345827460289,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.00700942100957036,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.014346879906952381,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0042430036701262,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0027228742837905884,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.032624080777168274,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.01756063848733902,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 2047819,
+        "md5": "c1070b281525f5ce91ce47c414a14bda",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-004-x-nm.png"
+  },
+  "B-img-004-d-nm.png": {
+    "id": "65f040f6-8c88-484c-bf13-d4a801d23acd",
+    "created_at": "2026-04-09T03:47:27.378805",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9673804044723511
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.03261953592300415
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9673804044723511,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.03261953592300415,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.004934791475534439,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.017908567562699318,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.01044718362390995,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.007249897345900536,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.005917138420045376,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.1761516034603119,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.09709054231643677,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6476806402206421,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1536,
+        "height": 1024,
+        "format": "PNG",
+        "size_bytes": 2287398,
+        "md5": "ee1e45813356df23dd861f8c39e63cb9",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-004-d-nm.png"
+  },
+  "A-img-008-x-nm.png": {
+    "id": "decd2501-da25-4438-b1f2-88ed1182204b",
+    "created_at": "2026-04-09T03:47:29.288188",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.15056699514389038
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.8494329452514648
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.15056699514389038,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.8494329452514648,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.007487218827009201,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.017939168959856033,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.019471151754260063,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0022583145182579756,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.004129511769860983,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.011840316466987133,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.07486662268638611,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.012574688531458378,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1814540,
+        "md5": "18e41e83656ba778dafa9e414a7c412a",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-008-x-nm.png"
+  },
+  "C-img-008-d-nm-cp.png": {
+    "id": "8e73c631-442a-49fb-926b-b2a1019af3ce",
+    "created_at": "2026-04-09T03:47:30.971435",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.6025641560554504
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.39743587374687195
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.6025641560554504,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.39743587374687195,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.06625908613204956,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0022919955663383007,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.008813465014100075,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0026527901645749807,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0064610764384269714,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.01745864935219288,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.010964863002300262,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.4876622259616852,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1359802,
+        "md5": "e96718cb6a4241f9a4a4f91689ce3126",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-008-d-nm-cp.png"
+  },
+  "D-img-008-d-nm-cp-br.png": {
+    "id": "f6398832-783e-45e6-85ba-d5084a1bd030",
+    "created_at": "2026-04-09T03:47:32.608342",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.24037446081638336
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.7596254944801331
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.24037446081638336,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.7596254944801331,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.014864659868180752,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.001038426416926086,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.045930828899145126,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.004889900330454111,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0055298758670687675,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.03448151424527168,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.006593384779989719,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.1270458698272705,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 859662,
+        "md5": "544a4e8260e6df19f3e59170abd9f061",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-008-d-nm-cp-br.png"
+  },
+  "B-img-008-d-nm.png": {
+    "id": "31742bdd-c98f-4432-b88c-8e1e338b6892",
+    "created_at": "2026-04-09T03:47:34.321893",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.6098237633705139
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.3901762068271637
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.6098237633705139,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.3901762068271637,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.14107085764408112,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.002200954593718052,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.003960864618420601,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0024773564655333757,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.003165797097608447,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.016114849597215652,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.0073305643163621426,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.4335024952888489,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1024,
+        "height": 1536,
+        "format": "PNG",
+        "size_bytes": 1589359,
+        "md5": "58455098292a7a8a920e6151bbf2501b",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-008-d-nm.png"
+  },
+  "B-img-001-d-nm.png": {
+    "id": "05d723ab-d4ed-4bab-9793-78f806cf4f8b",
+    "created_at": "2026-04-09T03:47:36.092924",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9572704434394836
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.04272961616516113
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9572704434394836,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.04272961616516113,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.006772398948669434,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.012106799520552158,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.008570533245801926,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.004686801694333553,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0076517886482179165,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.11870546638965607,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.051247693598270416,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.7475289702415466,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1024,
+        "height": 1536,
+        "format": "PNG",
+        "size_bytes": 2280296,
+        "md5": "390df045480ca48a3d5cc9cb9fb4c824",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-001-d-nm.png"
+  },
+  "C-img-001-d-nm-cp.png": {
+    "id": "bcfa8ce0-8a54-4485-9b77-dc81225aefb0",
+    "created_at": "2026-04-09T03:47:37.909049",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9445133209228516
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.05548672005534172
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9445133209228516,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.05548672005534172,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.009422232396900654,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.01316529605537653,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.010848300531506538,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.004546978510916233,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.008491174317896366,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.13613252341747284,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.06846820563077927,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6934385895729065,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1967114,
+        "md5": "c6041c92aa98d0b07750bf1581999e1d",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-001-d-nm-cp.png"
+  },
+  "D-img-001-d-nm-cp-br.png": {
+    "id": "180541ec-74e1-45e7-837a-e01e9e9ed8da",
+    "created_at": "2026-04-09T03:47:39.536764",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.4377884566783905
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.5622115731239319
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.4377884566783905,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.5622115731239319,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.031687743961811066,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.006831559352576733,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.05518551543354988,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.036430880427360535,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.005040051881223917,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.046781327575445175,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.07143280655145645,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.1843986064195633,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1405811,
+        "md5": "856f1d0958562dbf3766f22316cd2cfd",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-001-d-nm-cp-br.png"
+  },
+  "A-img-001-x-nm.png": {
+    "id": "88a4f5a7-1b52-4691-8838-a8dd2ea48045",
+    "created_at": "2026-04-09T03:47:41.261283",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.2293749451637268
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.7706250548362732
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.2293749451637268,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.7706250548362732,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.004750585649162531,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.006504514720290899,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.014667338691651821,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0033789053559303284,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.004278384614735842,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.001808686531148851,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.06269694864749908,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.13128958642482758,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 960,
+        "height": 1280,
+        "format": "PNG",
+        "size_bytes": 1916255,
+        "md5": "6cdbc189698913b8df151859b1f9e86b",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-001-x-nm.png"
+  },
+  "D-img-006-d-nm-cp-br.png": {
+    "id": "7bacd2ea-ce23-4d0e-94f3-9a59791d0fc0",
+    "created_at": "2026-04-09T03:47:42.793580",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.7519786953926086
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.2480212301015854
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.7519786953926086,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.2480212301015854,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.008604444563388824,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.005485303699970245,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0070624081417918205,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.005068106576800346,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.0025325084570795298,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.014602615498006344,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.015834340825676918,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.6927889585494995,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 628953,
+        "md5": "27e89baf74e9b8ef3aadcadeb8051782",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-006-d-nm-cp-br.png"
+  },
+  "B-img-006-d-nm.png": {
+    "id": "eee9562a-6103-4b84-b37e-9a8bc5a23b5c",
+    "created_at": "2026-04-09T03:47:44.426718",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.8592255115509033
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.14077448844909668
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.8592255115509033,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.14077448844909668,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.006149011664092541,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0024388220626860857,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.01700786128640175,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.000201990784262307,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.001536598545499146,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0030334654729813337,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.00596674345433712,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.8228910565376282,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1536,
+        "height": 1024,
+        "format": "PNG",
+        "size_bytes": 1338881,
+        "md5": "c9dac2a4b6d5986e5d0b5810cc82ee53",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-006-d-nm.png"
+  },
+  "A-img-006-x-nm.png": {
+    "id": "c246f5fc-7844-4c3f-90de-98da2f1c6b13",
+    "created_at": "2026-04-09T03:47:46.067972",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.03739573433995247
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.962604284286499
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.03739573433995247,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.962604284286499,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.004440683405846357,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0017346007516607642,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0030310957226902246,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.007281216327100992,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.001623540068976581,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.010511252097785473,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.007067155092954636,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.0017061886610463262,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1292336,
+        "md5": "b44f10072b49f8048590da1513246a07",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-006-x-nm.png"
+  },
+  "C-img-006-d-nm-cp.png": {
+    "id": "7e4428ac-fa79-4716-b81b-920a61f22d78",
+    "created_at": "2026-04-09T03:47:47.728807",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9225947260856628
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.07740527391433716
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9225947260856628,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.07740527391433716,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.0015112016117200255,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.0014917657244950533,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.0005961208953522146,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0001300690055359155,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.000529593147803098,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.0005864676204510033,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.0032791155390441418,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.9144704341888428,
+            "is_detected": true
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1129143,
+        "md5": "a93096de541ae0fc17e599915ec29a3b",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-006-d-nm-cp.png"
+  },
+  "D-img-007-d-nm-cp-br.png": {
+    "id": "97f86343-faee-42b0-915d-9a9bd935a430",
+    "created_at": "2026-04-09T03:47:49.390778",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.8131570219993591
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.18684302270412445
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.8131570219993591,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.18684302270412445,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.11693555861711502,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.008533299900591373,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.02836362086236477,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.0015352737391367555,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.020537344738841057,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.051553696393966675,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.02850545011460781,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.5571928024291992,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1108712,
+        "md5": "357aa3506396d320db7a3d283eb06c59",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "D-img-007-d-nm-cp-br.png"
+  },
+  "C-img-007-d-nm-cp.png": {
+    "id": "8aa81072-b49b-418a-9d5e-278c01642e8b",
+    "created_at": "2026-04-09T03:47:51.157612",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9648714065551758
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.0351286344230175
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9648714065551758,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.0351286344230175,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.016581036150455475,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.023656191304326057,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.06805339455604553,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.004353135824203491,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.00821810495108366,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.06282798200845718,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.28318795561790466,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.4979935884475708,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1498301,
+        "md5": "8cff534a60fa9dea3c9be7048064e991",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "C-img-007-d-nm-cp.png"
+  },
+  "B-img-007-d-nm.png": {
+    "id": "40d1e443-390e-4086-82e4-e2b60a916351",
+    "created_at": "2026-04-09T03:47:52.981962",
+    "report": {
+      "ai_generated": {
+        "verdict": "ai",
+        "ai": {
+          "is_detected": true,
+          "confidence": 0.9756585359573364
+        },
+        "human": {
+          "is_detected": false,
+          "confidence": 0.02434154786169529
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.9756585359573364,
+            "is_detected": true
+          },
+          "human": {
+            "confidence": 0.02434154786169529,
+            "is_detected": false
+          },
+          "midjourney": {
+            "confidence": 0.022202908992767334,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.021814042702317238,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.1496526300907135,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.003798332065343857,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.006192048080265522,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.21536311507225037,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.20038874447345734,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.3562467396259308,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1536,
+        "height": 1024,
+        "format": "PNG",
+        "size_bytes": 1696023,
+        "md5": "7c69cb881ac821d55c79342764c8d602",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "B-img-007-d-nm.png"
+  },
+  "A-img-007-x-nm.png": {
+    "id": "e12f529a-9e8f-415d-987a-5070b11115c6",
+    "created_at": "2026-04-09T03:47:54.824591",
+    "report": {
+      "ai_generated": {
+        "verdict": "human",
+        "ai": {
+          "is_detected": false,
+          "confidence": 0.31670406460762024
+        },
+        "human": {
+          "is_detected": true,
+          "confidence": 0.6832959651947021
+        },
+        "generator": {
+          "ai": {
+            "confidence": 0.31670406460762024,
+            "is_detected": false
+          },
+          "human": {
+            "confidence": 0.6832959651947021,
+            "is_detected": true
+          },
+          "midjourney": {
+            "confidence": 0.005259678233414888,
+            "is_detected": false
+          },
+          "dall_e": {
+            "confidence": 0.003692673984915018,
+            "is_detected": false
+          },
+          "stable_diffusion": {
+            "confidence": 0.26115068793296814,
+            "is_detected": false
+          },
+          "this_person_does_not_exist": {
+            "confidence": 0.00380242383107543,
+            "is_detected": false
+          },
+          "adobe_firefly": {
+            "confidence": 0.001940744579769671,
+            "is_detected": false
+          },
+          "flux": {
+            "confidence": 0.020109431818127632,
+            "is_detected": false
+          },
+          "four_o": {
+            "confidence": 0.015907306224107742,
+            "is_detected": false
+          },
+          "nano_banana": {
+            "confidence": 0.004841128829866648,
+            "is_detected": false
+          }
+        }
+      },
+      "meta": {
+        "width": 1280,
+        "height": 960,
+        "format": "PNG",
+        "size_bytes": 1627516,
+        "md5": "74b42b34d61858dfa81cda2e8880a2f3",
+        "processing_status": {
+          "ai_generated": "processed",
+          "deepfake": "rejected",
+          "nsfw": "rejected",
+          "quality": "rejected"
+        }
+      }
+    },
+    "external_id": "A-img-007-x-nm.png"
+  }
+}

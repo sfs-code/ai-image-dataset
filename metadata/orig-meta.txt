@@ -1,0 +1,158 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.52
+---- File ----
+File Name                       : cat-yawn-orig.png
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2026:03:03 11:32:22-08:00
+File Access Date/Time           : 2026:04:07 18:59:37-07:00
+File Inode Change Date/Time     : 2026:04:07 18:59:35-07:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 960
+Image Height                    : 1280
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : kCGColorSpaceDisplayP3
+Color Primaries                 : SMPTE EG 432-1
+Transfer Characteristics        : sRGB or sYCC
+Matrix Coefficients             : Identity matrix
+Video Full Range Flag           : 1
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+---- ICC_Profile ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- EXIF ----
+Make                            : Apple
+Camera Model Name               : iPhone 16 Pro Max
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 26.3
+Modify Date                     : 2026:03:01 13:45:44
+Host Computer                   : iPhone 16 Pro Max
+Tile Width                      : 512
+Tile Length                     : 512
+Exposure Time                   : 1/30
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 500
+Exif Version                    : 0232
+Date/Time Original              : 2026:03:01 13:45:44
+Create Date                     : 2026:03:01 13:45:44
+Offset Time                     : -08:00
+Offset Time Original            : -08:00
+Offset Time Digitized           : -08:00
+Shutter Speed Value             : 1/30
+Aperture Value                  : 1.8
+Brightness Value                : -0.2799419295
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Focal Length                    : 6.8 mm
+Subject Area                    : 2011 1510 1107 662
+Sub Sec Time                    : 053
+Sub Sec Time Original           : 053
+Sub Sec Time Digitized          : 053
+Exif Image Width                : 960
+Exif Image Height               : 1280
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 48 mm
+Lens Info                       : 2.220000029-15.65999985mm f/1.779999971-2.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 16 Pro Max back triple camera 6.765mm f/1.78
+Composite Image                 : General Composite Image
+---- MakerNotes ----
+Maker Note Version              : 16
+Run Time Flags                  : Valid
+Run Time Value                  : 471234836043250
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : No
+AE Target                       : 178
+AE Average                      : 187
+AF Stable                       : Yes
+Acceleration Vector             : 0.0190408323 -0.9411672958 -0.3418650627
+Focus Distance Range            : 0.11 - 0.39 m
+Image Capture Type              : Scene
+Live Photo Video Index          : 5290036
+Luminance Noise Amplitude       : 0.02113263123
+Photos App Feature Flags        : 1
+HDR Headroom                    : 1.00999999
+AF Performance                  : 25 1 19
+Signal To Noise Ratio           : 26.78008651
+Photo Identifier                : ABFDA579-DDCC-4244-AA65-F86FFA05A620
+Color Temperature               : 4868
+Camera Type                     : Back Normal
+Focus Position                  : 161
+HDR Gain                        : 3.069826126
+AF Measured Depth               : 26
+AF Confidence                   : 100
+---- XMP ----
+XMP Toolkit                     : XMP Core 6.0.0
+Color Space                     : Uncalibrated
+Subsec Time Original            : 053
+Subsec Time Digitized           : 053
+Flash Function                  : False
+Flash Fired                     : False
+Flash Return                    : No return detection
+Flash Mode                      : Off
+Flash Red Eye Mode              : False
+Focal Len In 35mm Film          : 48
+Subsec Time                     : 053
+Creator Tool                    : 26.3
+Photographic Sensitivity        : 500
+Date Created                    : 2026:03:01 13:45:44
+---- Composite ----
+Run Time Since Power Up         : 5 days 10:53:55
+Aperture                        : 1.8
+Image Size                      : 960x1280
+Megapixels                      : 1.2
+Scale Factor To 35 mm Equivalent: 7.1
+Shutter Speed                   : 1/30
+Create Date                     : 2026:03:01 13:45:44.053-08:00
+Date/Time Original              : 2026:03:01 13:45:44.053-08:00
+Modify Date                     : 2026:03:01 13:45:44.053-08:00
+Flash                           : Off, Did not fire
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 41.1 deg
+Focal Length 35mm Equiv         : 6.8 mm (35 mm equivalent: 48.0 mm)
+Hyperfocal Distance             : 6.07 m
+Light Value                     : 4.2
+Lens ID                         : iPhone 16 Pro Max back triple camera 6.765mm f/1.78

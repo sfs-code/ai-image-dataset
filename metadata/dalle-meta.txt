@@ -1,0 +1,65 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.52
+---- File ----
+File Name                       : cat-yawn-dalle.png
+Directory                       : .
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2026:03:05 17:42:41-08:00
+File Access Date/Time           : 2026:03:11 16:03:59-07:00
+File Inode Change Date/Time     : 2026:03:10 21:38:55-07:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1024
+Image Height                    : 1536
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+---- JUMBF ----
+JUMD Type                       : (c2pa)-0011-0010-800000aa00389b71
+JUMD Label                      : c2pa
+Actions Action                  : c2pa.created, c2pa.converted
+Actions Software Agent Name     : GPT-4o
+Actions Digital Source Type     : http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia
+Exclusions Start                : 33
+Exclusions Length               : 14119
+Name                            : jumbf manifest
+Alg                             : sha256
+Hash                            : (Binary data 32 bytes, use -b option to extract)
+Pad                             : (Binary data 8 bytes, use -b option to extract)
+Instance ID                     : xmp:iid:cb19dae3-1f02-47a4-9597-2fbfa38c30b1
+Claim Generator Info Name       : ChatGPT
+Claim Generator Info Org Contentauth C2 Pa Rs: 0.67.1
+Signature                       : self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.signature
+Created Assertions Url          : self#jumbf=c2pa.assertions/c2pa.actions.v2, self#jumbf=c2pa.assertions/c2pa.hash.data
+Created Assertions Hash         : (Binary data 32 bytes, use -b option to extract), (Binary data 32 bytes, use -b option to extract)
+Title                           : image.png
+Item 0                          : (Binary data 1979 bytes, use -b option to extract)
+Item 1 Pad                      : (Binary data 10932 bytes, use -b option to extract)
+Item 2                          : null
+Item 3                          : (Binary data 64 bytes, use -b option to extract)
+C2PA Thumbnail Ingredient Salt  : 1f7778ae722777dabef7fbaf0ed5b2e4
+C2PA Thumbnail Ingredient Type  : image/jpeg
+C2PA Thumbnail Ingredient Data  : (Binary data 33514 bytes, use -b option to extract)
+Relationship                    : parentOf
+Format                          : png
+Validation Results Active Manifest Success Code: claimSignature.insideValidity, claimSignature.validated, assertion.hashedURI.match, assertion.hashedURI.match, assertion.dataHash.match
+Validation Results Active Manifest Success Url: self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.signature, self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.signature, self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.assertions/c2pa.actions.v2, self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.assertions/c2pa.hash.data, self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.assertions/c2pa.hash.data
+Validation Results Active Manifest Success Explanation: claim signature valid, claim signature valid, hashed uri matched: self#jumbf=c2pa.assertions/c2pa.actions.v2, hashed uri matched: self#jumbf=c2pa.assertions/c2pa.hash.data, data hash valid
+Active Manifest Url             : self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3
+Active Manifest Alg             : sha256
+Active Manifest Hash            : (Binary data 32 bytes, use -b option to extract)
+Claim Signature Url             : self#jumbf=/c2pa/urn:c2pa:83e67788-ad13-4df7-a77a-90ec72ac5ae3/c2pa.signature
+Claim Signature Alg             : sha256
+Claim Signature Hash            : (Binary data 32 bytes, use -b option to extract)
+Thumbnail URL                   : self#jumbf=c2pa.assertions/c2pa.thumbnail.ingredient
+Thumbnail Hash                  : (Binary data 32 bytes, use -b option to extract)
+Actions Parameters Ingredients Url: self#jumbf=c2pa.assertions/c2pa.ingredient.v3
+Actions Parameters Ingredients Hash: (Binary data 32 bytes, use -b option to extract)
+---- Composite ----
+Image Size                      : 1024x1536
+Megapixels                      : 1.6
